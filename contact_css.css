@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#6f1c1c40;
+  border-radius: ;
+}
+h1
+{
+  background-color:#421007;
+  margin:0px;
+  padding:30px;
+  font-size:30px;
+  text-align:center;
+  color:white;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #ff1201;
+  text-align: center;
+  padding: 30px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #22ee11;
+}

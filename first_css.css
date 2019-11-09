@@ -1,0 +1,64 @@
+body{
+      background: url('sea.jpeg');
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.h{
+    text-align: center;
+    padding:250px;
+    color:#b74444;
+    border-radius:50px;
+}
+.h input[type="submit"]
+{
+border:none;
+outline: none;
+height:30px;
+background: #fb2515;
+color:#fff;
+font-size: 25px;
+border-radius: 20px;
+}
+.h input[type="submit"]:hover
+{
+  cursor:pointer;
+  background:#ffc107;
+  color:#000;
+  border-radius: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /*background-color: #333;*/
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #22ee11;
+}
+/*#footer
+{
+      margin:20px;
+      padding:24px 48px;
+      border-radius:5px;
+      background-color: #ddccee;
+      font-size:20px
+*/
+}
+/*tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}*/
